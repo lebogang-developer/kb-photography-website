@@ -2,8 +2,9 @@ import React from "react";
 
 const CallToAction = () => {
   return (
-    <section className="relative overflow-hidden py-6">
+    <section className="relative overflow-hidden">
       <img
+        // src="https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=1600"
         src="images/call-to-action-image.jpg"
         alt="CTA background"
         className="absolute inset-0 h-full w-full object-cover"
