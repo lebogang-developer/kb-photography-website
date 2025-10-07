@@ -6,7 +6,7 @@ export default function Footer() {
         <div className="text-sm text-neutral-400 mt-1">
           Website designed by{" "}
           <a
-            href="https://linkedin.com"
+            href="https://lebogang-developer.netlify.app/"
             target="_blank"
             rel="noreferrer"
             aria-label="Linkedin"
