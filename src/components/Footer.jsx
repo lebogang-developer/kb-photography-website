@@ -9,7 +9,7 @@ export default function Footer() {
             href="https://lebogang-developer.netlify.app/"
             target="_blank"
             rel="noreferrer"
-            aria-label="Linkedin"
+            aria-label="Website"
           >
             Lebo Sekaleli
           </a>
